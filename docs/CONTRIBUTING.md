@@ -168,7 +168,7 @@ To ensure consistency throughout the source code, keep these rules in mind as yo
 
 ## Commit Message Guidelines
 
-Commit messages must follow the [Conventional Commits](#[commit-header](https://www.conventionalcommits.org/en/v1.0.0/) format.
+Commit messages must follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format.
 
 We have very precise rules over how our Git commit messages must be formatted.
 This format leads to **easier to read commit history**.
