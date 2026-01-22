@@ -4,4 +4,4 @@ I enjoy exploring new technologies, contributing to open-source communities, and
 
 ---
 
-*”Efficiency is doing things right; effectiveness is doing the right things.”* — Peter Drucker
+*”Peace at home, peace in the world!”* — Mustafa Kemal Atatürk
